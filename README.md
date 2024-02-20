@@ -1,3 +1,2 @@
-# Or27
-## **EKPA**
-### R_GIT_
+# "Example of README.md"
+## Ornela
